@@ -11,5 +11,5 @@ go run main.go
 
 3. Access the URL on the browser:
 ```
-http://localhost:8080/
+http://localhost:4200/
 ```
