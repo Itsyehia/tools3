@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fatma front.iml" filepath="$PROJECT_DIR$/.idea/fatma front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/golang-mysql-crud.iml" filepath="$PROJECT_DIR$/.idea/golang-mysql-crud.iml" />
     </modules>
   </component>
 </project>
